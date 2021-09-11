@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Myapp</string>
+    <string name="login">Login</string>
+    <string name="sign">Sign in</string>
+    <string name="about">About us</string>
+    <string name="more">More</string>
+    <string name="send">Send</string>
+    <string name="share">Share</string>
+    <string name="open_navigation_drawer">Open navigation drawer</string>
+    <string name="close_navigation_drawer">Close navigation drawer</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/ic_login"
+            android:title="@string/login">
+
+        </item>
+        <item
+            android:icon="@drawable/ic_person"
+            android:title="@string/sign">
+
+        </item>
+        <item
+            android:icon="@drawable/ic_error"
+            android:title="@string/about">
+
+        </item>
+    </group>
+
+    <item android:title="@string/more">
+
+        <menu>
+            <item
+                android:icon="@drawable/ic_send"
+                android:title="@string/send">
+
+            </item>
+            <item
+                android:icon="@drawable/ic_share"
+                android:title="@string/share">
+
+            </item>
+        </menu>
+
+    </item>
+
+</menu>
